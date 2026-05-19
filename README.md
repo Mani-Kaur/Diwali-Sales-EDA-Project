@@ -31,7 +31,3 @@ Performed Exploratory Data Analysis (EDA) on Diwali sales data to identify custo
 
 
 
-
-Short + clean + easy to scan = better.
-
-Then add:
